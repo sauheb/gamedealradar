@@ -1,0 +1,33 @@
+name: Update Game Deals
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Every 6 hours
+  workflow_dispatch:         # Allow manual run
+
+jobs:
+  fetch-deals:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch deals and save JSON
+        run: |
+          mkdir -p data
+          echo "Fetching GamerPower deals..."
+          curl -s "https://www.gamerpower.com/api/giveaways" -o data/gamerpower.json
+
+          echo "Fetching ITAD deals (example endpoint)..."
+          curl -s "https://api.isthereanydeal.com/v01/deals/list/?key=YOUR_ITAD_API_KEY&limit=10" -o data/itad.json
+
+          echo "Merging data..."
+          node -e "const fs=require('fs');const g=JSON.parse(fs.readFileSync('data/gamerpower.json','utf8'));let i=[];try{i=JSON.parse(fs.readFileSync('data/itad.json','utf8')).data.list;}catch{};fs.writeFileSync('deals.json',JSON.stringify({gamerpower:g, itad:i},null,2));"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add deals.json
+          git commit -m "Update deals $(date)" || echo "No changes"
+          git push
