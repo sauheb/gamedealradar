@@ -19,7 +19,7 @@ jobs:
           curl -s "https://www.gamerpower.com/api/giveaways" -o data/gamerpower.json
 
           echo "Fetching ITAD deals (example endpoint)..."
-          curl -s "https://api.isthereanydeal.com/v01/deals/list/?key=YOUR_ITAD_API_KEY&limit=10" -o data/itad.json
+          curl -s "https://api.isthereanydeal.com/v01/deals/list/?key=584889de47f882022af64e4db40564c4b6086058&limit=10" -o data/itad.json
 
           echo "Merging data..."
           node -e "const fs=require('fs');const g=JSON.parse(fs.readFileSync('data/gamerpower.json','utf8'));let i=[];try{i=JSON.parse(fs.readFileSync('data/itad.json','utf8')).data.list;}catch{};fs.writeFileSync('deals.json',JSON.stringify({gamerpower:g, itad:i},null,2));"
