@@ -13,7 +13,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-02-19 23:59:00",
-      "users": 3500,
+      "users": 6620,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/nobody-wants-to-die-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/nobody-wants-to-die-epic-games-giveaway"
@@ -31,7 +31,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-02-19 23:59:00",
-      "users": 2210,
+      "users": 4220,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/the-darkside-detective-a-fumble-in-the-dark-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/the-darkside-detective-a-fumble-in-the-dark-epic-games-giveaway"
@@ -49,7 +49,7 @@
       "type": "Game",
       "platforms": "PC",
       "end_date": "2026-02-22 23:59:00",
-      "users": 1480,
+      "users": 2190,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/bullet-delivery-space-spot-collection-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/bullet-delivery-space-spot-collection-pc-giveaway"
@@ -67,7 +67,7 @@
       "type": "Game",
       "platforms": "PC",
       "end_date": "2026-02-22 23:59:00",
-      "users": 20550,
+      "users": 20920,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/return-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/return-pc-giveaway"
@@ -85,7 +85,7 @@
       "type": "Game",
       "platforms": "PC, Steam",
       "end_date": "2026-02-16 23:59:00",
-      "users": 11550,
+      "users": 13040,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/lost-in-anomaly-steam-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/lost-in-anomaly-steam-giveaway"
@@ -103,7 +103,7 @@
       "type": "Game",
       "platforms": "PC",
       "end_date": "2026-02-18 23:59:00",
-      "users": 3350,
+      "users": 3510,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/love-too-easily-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/love-too-easily-pc-giveaway"
@@ -121,7 +121,7 @@
       "type": "DLC",
       "platforms": "PC, Steam",
       "end_date": "N/A",
-      "users": 1250,
+      "users": 1340,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/deadswitch-combat-weapons-skins-steam-key-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/deadswitch-combat-weapons-skins-steam-key-giveaway"
@@ -139,7 +139,7 @@
       "type": "DLC",
       "platforms": "PC",
       "end_date": "N/A",
-      "users": 1330,
+      "users": 1400,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/kards-special-bundle-key-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/kards-special-bundle-key-giveaway"
@@ -157,28 +157,10 @@
       "type": "Early Access",
       "platforms": "PC, Steam",
       "end_date": "N/A",
-      "users": 3470,
+      "users": 3510,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/chop-shop-playtest-steam-key-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/chop-shop-playtest-steam-key-giveaway"
-    },
-    {
-      "id": 3483,
-      "title": "Pixel Gun 3D: Poison Retro Set (Epic Games) Giveaway",
-      "worth": "$24.99",
-      "thumbnail": "https://www.gamerpower.com/offers/1/6984bebc0fb3a.jpg",
-      "image": "https://www.gamerpower.com/offers/1b/6984bebc0fb3a.jpg",
-      "description": "Claim your free Pixel Gun 3D: Poison Retro Set, inspired by the electrifying Arcade Season. Please note that the base game Pixel Gun 3D is required to enjoy this DLC content.",
-      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Install the base game.\r\n4. Click the button to add the DLC to your library",
-      "open_giveaway_url": "https://www.gamerpower.com/open/pixel-gun-3d-poison-retro-set-epic-games-giveaway",
-      "published_date": "2026-02-05 11:01:00",
-      "type": "DLC",
-      "platforms": "PC, Epic Games Store",
-      "end_date": "2026-02-12 23:59:00",
-      "users": 3810,
-      "status": "Active",
-      "gamerpower_url": "https://www.gamerpower.com/pixel-gun-3d-poison-retro-set-epic-games-giveaway",
-      "open_giveaway": "https://www.gamerpower.com/open/pixel-gun-3d-poison-retro-set-epic-games-giveaway"
     },
     {
       "id": 3482,
@@ -193,7 +175,7 @@
       "type": "DLC",
       "platforms": "PC, Steam",
       "end_date": "N/A",
-      "users": 5690,
+      "users": 5730,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/endless-space-2-untold-tales-dlc-steam-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/endless-space-2-untold-tales-dlc-steam-giveaway"
@@ -211,7 +193,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-02-16 23:59:00",
-      "users": 30630,
+      "users": 31430,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/find-the-oil-racing-edition-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/find-the-oil-racing-edition-epic-games-giveaway"
@@ -229,7 +211,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2016-02-12 23:59:59",
-      "users": 22450,
+      "users": 22520,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/the-black-within-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/the-black-within-itch-io-giveaway"
@@ -247,7 +229,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-02-27 23:59:00",
-      "users": 34830,
+      "users": 35450,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sunblockers-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sunblockers-epic-games-giveaway"
@@ -265,7 +247,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-02-28 23:59:00",
-      "users": 34800,
+      "users": 35540,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/nightreaper2-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/nightreaper2-epic-games-giveaway"
@@ -373,7 +355,7 @@
       "type": "Game",
       "platforms": "PC",
       "end_date": "N/A",
-      "users": 19370,
+      "users": 19390,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/gigabash-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/gigabash-pc-giveaway"
@@ -445,7 +427,7 @@
       "type": "DLC",
       "platforms": "PC, Steam",
       "end_date": "2026-09-25 23:59:00",
-      "users": 23170,
+      "users": 23180,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dk-online-season-4-first-steps-pack-steam-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dk-online-season-4-first-steps-pack-steam-giveaway"
@@ -589,7 +571,7 @@
       "type": "Early Access",
       "platforms": "PC, Steam, Epic Games Store, Playstation 5, Xbox Series X|S, Nintendo Switch, Android, iOS",
       "end_date": "N/A",
-      "users": 107720,
+      "users": 107730,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dungeonloot-open-beta-has-arrived",
       "open_giveaway": "https://www.gamerpower.com/open/dungeonloot-open-beta-has-arrived"
@@ -625,7 +607,7 @@
       "type": "Game",
       "platforms": "VR",
       "end_date": "N/A",
-      "users": 62640,
+      "users": 62650,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sharknado-vr-rift-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sharknado-vr-rift-giveaway"
@@ -643,7 +625,7 @@
       "type": "DLC",
       "platforms": "PC, Steam",
       "end_date": "2026-12-31 23:59:00",
-      "users": 87760,
+      "users": 87770,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dave-the-diver-godzilla-content-pack-steam-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dave-the-diver-godzilla-content-pack-steam-giveaway"
@@ -985,7 +967,7 @@
       "type": "DLC",
       "platforms": "PC, Steam",
       "end_date": "N/A",
-      "users": 95090,
+      "users": 95100,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/exoprimal-alienware-decal-steam-key-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/exoprimal-alienware-decal-steam-key-giveaway"
@@ -1111,7 +1093,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "N/A",
-      "users": 145810,
+      "users": 145820,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dual-chroma-academy-carols-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway"
@@ -1147,7 +1129,7 @@
       "type": "DLC",
       "platforms": "PC",
       "end_date": "N/A",
-      "users": 92330,
+      "users": 92340,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/untrusted-starter-pack-key-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/untrusted-starter-pack-key-giveaway"
@@ -1165,7 +1147,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "N/A",
-      "users": 154630,
+      "users": 154660,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dora-diginoid-metroidvania-sci-fi-adventure-game",
       "open_giveaway": "https://www.gamerpower.com/open/dora-diginoid-metroidvania-sci-fi-adventure-game"
@@ -1381,7 +1363,7 @@
       "type": "DLC",
       "platforms": "PC",
       "end_date": "N/A",
-      "users": 95580,
+      "users": 95590,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/magic-the-gathering-arena-5-card-sleeves",
       "open_giveaway": "https://www.gamerpower.com/open/magic-the-gathering-arena-5-card-sleeves"
@@ -1471,7 +1453,7 @@
       "type": "DLC",
       "platforms": "PC",
       "end_date": "N/A",
-      "users": 97260,
+      "users": 97270,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/causa-voices-of-the-dusk-game-packs-bundle-keys",
       "open_giveaway": "https://www.gamerpower.com/open/causa-voices-of-the-dusk-game-packs-bundle-keys"
